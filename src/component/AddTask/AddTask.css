@@ -1,0 +1,13 @@
+.add-task {
+    display: flex;
+    background-color: coral;
+    border-radius: 50px;
+    padding: 2%;
+    margin: 2% 20%;
+  }
+  
+  .input-task {
+    margin-right: 10px !important;
+    margin-left: 10px !important;
+  }
+  
